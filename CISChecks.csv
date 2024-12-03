@@ -1,0 +1,3 @@
+CheckID,CheckName,CurrentSetting,RecommendedSetting,Action
+1,Disable SMBv1,Enabled,Disabled,Disable-SMBv1
+2,Disable Guest Account,Enabled,Disabled,Disable-Guest-Account
